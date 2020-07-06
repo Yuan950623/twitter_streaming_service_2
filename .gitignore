@@ -1,0 +1,5 @@
+# Project exclude paths
+/service-common/target/
+/service-realtime/target/
+/service-streaming/target/
+/service_kafka_consumer/target/
